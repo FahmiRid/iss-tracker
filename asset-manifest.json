@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/iss-tracker/static/css/main.3d3fa566.chunk.css",
+    "main.js": "/iss-tracker/static/js/main.c3c12bc8.chunk.js",
+    "main.js.map": "/iss-tracker/static/js/main.c3c12bc8.chunk.js.map",
+    "runtime-main.js": "/iss-tracker/static/js/runtime-main.623e9916.js",
+    "runtime-main.js.map": "/iss-tracker/static/js/runtime-main.623e9916.js.map",
+    "static/css/2.383c0125.chunk.css": "/iss-tracker/static/css/2.383c0125.chunk.css",
+    "static/js/2.7ba947e6.chunk.js": "/iss-tracker/static/js/2.7ba947e6.chunk.js",
+    "static/js/2.7ba947e6.chunk.js.map": "/iss-tracker/static/js/2.7ba947e6.chunk.js.map",
+    "index.html": "/iss-tracker/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/iss-tracker/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.3d3fa566.chunk.css.map": "/iss-tracker/static/css/main.3d3fa566.chunk.css.map",
+    "static/js/2.7ba947e6.chunk.js.LICENSE.txt": "/iss-tracker/static/js/2.7ba947e6.chunk.js.LICENSE.txt",
+    "static/media/iss.6d39ab68.png": "/iss-tracker/static/media/iss.6d39ab68.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.623e9916.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.7ba947e6.chunk.js",
+    "static/css/main.3d3fa566.chunk.css",
+    "static/js/main.c3c12bc8.chunk.js"
+  ]
+}
